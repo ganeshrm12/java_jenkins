@@ -13,7 +13,7 @@ public class Main{
         System.out.println("Heyy456");
         //System.out.println("Enter name : ");
         //String name = sc.nextLine();
-        System.out.println(name);
+        //System.out.println(name);
 
     }
 }
