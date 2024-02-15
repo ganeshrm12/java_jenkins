@@ -5,9 +5,9 @@ public class Main{
 
         System.out.println("HEllo World");
         System.out.println(new Date());
-        System.out.printn("Heyy");
-        System.out.printn("Heyy123");
-        System.out.printn("Heyy456");
+        System.out.println("Heyy");
+        System.out.println("Heyy123");
+        System.out.println("Heyy456");
 
 
     }
